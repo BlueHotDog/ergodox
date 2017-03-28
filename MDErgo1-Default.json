@@ -120,8 +120,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUALS",
-                    "label": "="
+                    "key": "BACKTICK",
+                    "label": "`"
                 },
                 "2": {
                     "key": "#:flashMode()",
@@ -215,8 +215,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "TAB",
+                    "label": "TAB"
                 }
             }
         },
@@ -293,8 +293,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "TAB",
-                    "label": "TAB"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -475,8 +475,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "RBRACE",
+                    "label": "]"
                 }
             }
         },
@@ -488,8 +488,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "LBRACE",
+                    "label": "["
                 }
             }
         },
@@ -514,8 +514,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "SLASH",
+                    "label": "\/"
                 }
             }
         },
@@ -671,8 +671,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "EQUAL",
+                    "label": "="
                 }
             }
         },
